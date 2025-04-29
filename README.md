@@ -64,7 +64,7 @@ dar click en el boton play para ejecutar la celda.
 
 5. Para realizar las gráficas se utiliza las librerías folium se debe cargar la información de las coordenadas 'lat' y 'lon' de los productos vendidos, cargar el mapa donde se ubican esas coordenadas dar clik en todas las celdas donde se encuentra el código correspondiente para ejecutar la celda y obtener el mapa de distribución geográfica.
 
-Para acceder al proyecto se puede descargar de la plataforma GitHub a través del siguiente link: 
+Para acceder al proyecto se puede descargar de la plataforma GitHub a través del siguiente link: https://github.com/LauraAVillarragaD/Desaf-o-1.-Ciencia-de-Datos-Alura-Store-
 
   <h2 align="center"> 5. :bust_in_silhouette: Personas Contribuyentes </h2>
   Alura Latam
